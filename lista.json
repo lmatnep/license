@@ -1,5 +1,8 @@
 {
   "usuarios": {
-    "ABC123": false
+    "Cleiton": true,
+    "Caiu": true,
+    "Mateus": true,
+    "Usuário": true
   }
 }
